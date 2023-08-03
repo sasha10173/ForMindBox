@@ -1,0 +1,4 @@
+
+SELECT product_name, category_name
+FROM product LEFT JOIN category
+ON product.category_id = category.id

@@ -1,0 +1,24 @@
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\bin\Debug\net6.0\FigureCalculationLibrary.deps.json
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\bin\Debug\net6.0\FigureCalculationLibrary.dll
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\bin\Debug\net6.0\FigureCalculationLibrary.pdb
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.AssemblyInfo.cs
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.dll
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\refint\FigureCalculationLibrary.dll
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.pdb
+C:\Users\Professional\Desktop\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\ref\FigureCalculationLibrary.dll
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\bin\Debug\net6.0\FigureCalculationLibrary.deps.json
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\bin\Debug\net6.0\FigureCalculationLibrary.dll
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\bin\Debug\net6.0\FigureCalculationLibrary.pdb
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.csproj.AssemblyReference.cache
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.AssemblyInfoInputs.cache
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.AssemblyInfo.cs
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.csproj.CoreCompileInputs.cache
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.dll
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\refint\FigureCalculationLibrary.dll
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\FigureCalculationLibrary.pdb
+D:\Папки с рабочего стола\FigureCalculationLibrary\FigureCalculationLibrary\obj\Debug\net6.0\ref\FigureCalculationLibrary.dll
